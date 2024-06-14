@@ -27,7 +27,8 @@ def index():
             <title>Some HTML in here</title>
         </head>
         <body>
-            <h1>Look ma! HTML!</h1>
+            <h1>Good!</h1>
+            <img src=wadoyoka_256.png>
         </body>
     </html>
     """
