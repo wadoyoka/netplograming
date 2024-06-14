@@ -53,4 +53,4 @@ def omikuji():
 
 @app.post("/present")
 async def new_naming(present):
-    return {"response": f"サーバです。メリークリスマス！ {present}ありがとう。お返しはキャンディーです。"}
+    return {"response": f"サーバです。最近熱いですね！ {present}ありがとう。お返しはアイスです。"}
