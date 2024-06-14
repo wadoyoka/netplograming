@@ -28,7 +28,7 @@ def index():
         </head>
         <body>
             <h1>Good!</h1>
-            <img src="wadoyoka_256.png">
+            <img src="https://raw.githubusercontent.com/wadoyoka/netplograming/main/wadoyoka_256.png">
         </body>
     </html>
     """
