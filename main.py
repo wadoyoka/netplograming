@@ -49,3 +49,7 @@ def omikuji():
     ]
     
     return {"result" : omikuji_list[random.randrange(10)]}
+
+@app.post("/present")
+async def new_naming(present):
+    return {"response": f"サーバです。メリークリスマス！ {present}ありがとう。お返しはキャンディーです。"}
